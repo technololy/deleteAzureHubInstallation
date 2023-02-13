@@ -7,7 +7,7 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         HttpClient httpClient = new HttpClient();
-        httpClient.DefaultRequestHeaders.Add("apiKey", "Technololy22086Azure");
+        httpClient.DefaultRequestHeaders.Add("ss", "ss");
         DeleteInstallations(httpClient);
 
     }
